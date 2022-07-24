@@ -115,5 +115,5 @@ class Sensor{
             );
             ctx.stroke();
         }
-    }        
+    }
 }
